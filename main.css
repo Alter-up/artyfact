@@ -54,7 +54,7 @@ body {
 .claim-block .reward-amount-smb {
   color: #ffbb0e;
 }
-.claim-block .claim-button {
+.claim-block .connectButton {
   color: #000;
   cursor: pointer !important;
   font-family: aldrichrus;
@@ -64,11 +64,11 @@ body {
   border: none;
   padding: 15px 30px;
 }
-.claim-block .claim-button:hover {
+.claim-block .connectButton:hover {
   background: #f8a932;
 }
 @media screen and (max-width: 768px) {
-  .claim-block .claim-button {
+  .claim-block .connectButton {
     margin-top: 20px;
   }
 }
